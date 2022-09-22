@@ -1,6 +1,8 @@
 body {
 
     font-family: 'Noto Serif TC', serif;
+    background-color:black;
+    color: #DFB722;
 }
 
 .list {
@@ -17,16 +19,16 @@ align-items: center;
 }
 
 .name {
-    font-size: 45px;
-    padding-left: 40px;
-    padding-right: 40px;
+    font-size: 50px;
+    padding-left: 45px;
+    padding-right: 45px;
 }
 
 .right-dates, .left-dates {
     min-height: 8em;
     font-size: 30px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 45px;
+    padding-right: 45px;
 }
 
 .english {
