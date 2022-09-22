@@ -12,16 +12,21 @@ align-items: center;
 .right-dates, .name, .left-dates {
     display: grid;
     list-style: none;
+    
 
 }
 
 .name {
     font-size: 45px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .right-dates, .left-dates {
     min-height: 8em;
     font-size: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .english {
